@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS BookH2 (
+    id INT PRIMARY KEY,
+    name VARCHAR(255),
+    author VARCHAR(255)
+);
